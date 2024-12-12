@@ -1,9 +1,7 @@
-# Capturando Senhas no Facebook com Phishing 🎯
+# Atividade Bootcamp Santander CyberSegurança 🎯
 
 Este projeto demonstra como configurar um ataque de phishing para captura de credenciais, utilizando o **Kali Linux** e o **Social Engineering Toolkit (SET)**.  
 ⚠️ **Este projeto é apenas para fins educacionais.**
-⚠️ **Atividade Bootcamp Santander Cybersegurança**
-
 ---
 
 ## 📦 Ferramentas Utilizadas
@@ -22,8 +20,8 @@ Este projeto demonstra como configurar um ataque de phishing para captura de cre
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./Print01.png "Optional title")
+![Alt text](./print02.png "Optional title")
