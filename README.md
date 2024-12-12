@@ -1,7 +1,8 @@
 # Atividade Bootcamp Santander CyberSegurança 🎯
 
-Este projeto demonstra como configurar um ataque de phishing para captura de credenciais, utilizando o **Kali Linux** e o **Social Engineering Toolkit (SET)**.  
+Este projeto demonstra como configurar um ataque de phishing para captura de credenciais, utilizando o Kali Linux e o Social Engineering Toolkit (SET).  
 ⚠️ **Este projeto é apenas para fins educacionais.**
+
 ---
 
 ## 📦 Ferramentas Utilizadas
